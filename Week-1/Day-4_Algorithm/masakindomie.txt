@@ -1,0 +1,30 @@
+Siapkan uang
+Pergi ke toko
+Cek harga indomie
+Cek kecukupan uang
+Beli indomie
+Pergi ke kasir
+Bayar indomie
+Bayar parkir
+Pulang ke rumah
+Pergi ke dapur
+Ambil panci
+Ambil air
+Tuang air ke panci
+Nyalakan kompor
+Ambil piring
+Ambil gunting
+Buka bungkus indomie
+Ambil bumbu indomie
+Buka bumbu indomie
+Tuang bumbu indomie ke piring
+Masukan mie ke panci
+Ambil garpu
+Aduk mie
+Tunggu hingga matang
+Ambil panci berisi mie
+Ambil penyaring
+Tiriskan mie
+Letakan mie ke piring
+Aduk mie hingga merata
+Selesai
